@@ -461,8 +461,8 @@ Open `powerbi/ecommerce_funnel.pbix` → update PostgreSQL connection credential
 **Tejasvi Bhavsar**  
 Data Analyst | Python · SQL · Power BI
 
-🔗 GitHub: https://github.com/Tjsv21  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🔗 GitHub: https://github.com/tejasvi-insights 
+🔗 LinkedIn: http://linkedin.com/in/tejasvi-bhavsar-57429b135
 
 ---
 
