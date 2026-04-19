@@ -1,6 +1,6 @@
 # E-Commerce Funnel Analysis
 ### Electronics Store — Conversion Funnel, Brand Intelligence & Revenue Patterns
-**TL;DR:** Analyzed 884K e-commerce events to uncover a 90.92% drop at the view→cart stage, identify high-converting price segments, and recommend data-driven strategies to improve conversion and revenue.
+![Dashboard Preview](images/dashboard_preview.png)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![SQL](https://img.shields.io/badge/PostgreSQL-Analytics-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
