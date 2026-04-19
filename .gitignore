@@ -1,0 +1,45 @@
+data/events.csv 
+data/events_clean.csv
+
+# ── Data files (too large for GitHub) ────────────────
+data/events.csv
+data/events_clean.csv
+
+# ── Python ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Environment ───────────────────────────────────────
+.env
+*.env
+venv/
+env/
+.venv/
+
+# ── Jupyter ───────────────────────────────────────────
+.jupyter/
+*.nbconvert
+
+# ── OS files ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Power BI temp files ───────────────────────────────
+*.pbix.bak
+~*.pbix
+
+
+# ── Large Data Files (Optional)───────────────────────────────
+# Uncomment if needed
+# data/*.csv
+
+# ── Old files ─────────────────────────────────────────
+README_old.md
+ecommerce_funnel_project_plan.svg
+
+# ── PostgreSQL ────────────────────────────────────────
+*.sql.bak
