@@ -1,10 +1,11 @@
 # E-Commerce Funnel Analysis
 ### Electronics Store — Conversion Funnel, Brand Intelligence & Revenue Patterns
-![Dashboard Preview](images/dashboard_preview.png)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![SQL](https://img.shields.io/badge/PostgreSQL-Analytics-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
+--
+![Dashboard Preview](images/dashboard_preview.png)
 
 End-to-end **funnel analytics project** analyzing 884K+ real e-commerce events across 5 months (Sep 2020 – Feb 2021) from an electronics store using PostgreSQL, Python, and Power BI.
 The goal is to identify where users drop off in the purchase journey (view → cart → purchase), understand what drives conversion  
